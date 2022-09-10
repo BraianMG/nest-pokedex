@@ -7,7 +7,7 @@
 ## Ejecutar en desarrollo
 ```bash
 # 1. Clonar el repositorio
-$ git clone ...
+$ git clone https://github.com/BraianMG/nest-pokedex.git
 
 # 2. Instalar dependencias
 $ yarn install
